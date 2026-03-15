@@ -1,4 +1,4 @@
-### 2. Weather Dashboard ☀️
+# 2. Weather Dashboard ☀️
 Goal: Fetch and serve weather data for a given city using OpenWeatherMap or similar.
 
 Features:
