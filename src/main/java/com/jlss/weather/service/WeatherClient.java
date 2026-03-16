@@ -2,7 +2,6 @@ package com.jlss.weather.service;
 import com.jlss.weather.model.*;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
-import com.jlss.weather.model.*;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.beans.factory.annotation.Value;
 @Component
